@@ -1,0 +1,15 @@
+/Users/andrilucero/Projects/rifas/rifas/bin/Debug/net5.0/rifas.deps.json
+/Users/andrilucero/Projects/rifas/rifas/bin/Debug/net5.0/rifas.runtimeconfig.json
+/Users/andrilucero/Projects/rifas/rifas/bin/Debug/net5.0/rifas.runtimeconfig.dev.json
+/Users/andrilucero/Projects/rifas/rifas/bin/Debug/net5.0/rifas.dll
+/Users/andrilucero/Projects/rifas/rifas/bin/Debug/net5.0/ref/rifas.dll
+/Users/andrilucero/Projects/rifas/rifas/bin/Debug/net5.0/rifas.pdb
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.csproj.AssemblyReference.cache
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.AssemblyInfoInputs.cache
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.AssemblyInfo.cs
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.csproj.CoreCompileInputs.cache
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.dll
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/ref/rifas.dll
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.pdb
+/Users/andrilucero/Projects/rifas/rifas/obj/Debug/net5.0/rifas.genruntimeconfig.cache
